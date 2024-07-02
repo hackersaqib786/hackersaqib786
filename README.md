@@ -1,3 +1,9 @@
+<br clear="both">
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hackersaqib786.hackersaqib786&left_color=darkslateblue&right_color=cornflowerblue&left_text=Visitors"  />
+</div>
+
 <h2 align="center">Hi 👋!  I'm Shahid</h2>
 
 ###
