@@ -4,53 +4,32 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hackersaqib786.hackersaqib786&left_color=darkslateblue&right_color=cornflowerblue&left_text=Visitors"  />
 </div>
 
-<h2 align="center">Hi 👋!  I'm Shahid</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shahid+Ali+!;" alt="Typing Animation">
+</h1>
+
 
 ###
-
-<img align="left" height="270" src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true"  />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hackersaqib786.hackersaqib786&left_color=mediumturquoise&right_color=powderblue&left_text=Views"  />
+<div style="text-align: center;">
+  <img src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true" style="width: 100%; max-width: 1500px; height: auto; aspect-ratio: 3 / 1;" />
 </div>
 
-###
-
-<p align="center">⭐️ Software Engineer at Advance Auto Parts</p>
-
-###
-
-<p align="center">🌱 Learning MERN Stack at the Moment</p>
-
-###
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=100&duration=5000&color=FFFFFF&lines=Jarvis+,+Drop+my+intro" />
+</h3>
+<hr/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
 
-###
+ 
+ 🌱 I’m currently learning **MERN Stack**
+ 
+ 🔭 I’m currently working as **Software Developer** at **Advance Auto Parts**
 
-<br> <br>
-<br clear="both">
+ 💬 Ask me about **Python, Machine Learning, Java, JavaScript React, Node.Js,Firebase**... or anything on 👇
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackersaqib786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersaqib786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=hackersaqib786&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
-###
-
+ </div>
 
 
 <div align="center">
@@ -71,6 +50,25 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackersaqib786&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersaqib786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=hackersaqib786&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+
+
+
+###
+
+
+
+
 
 ###
 
