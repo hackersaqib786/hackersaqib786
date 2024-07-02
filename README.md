@@ -1,9 +1,8 @@
-
 <h2 align="center">Hi 👋!  I'm Shahid</h2>
 
 ###
 
-<img align="left" height="237" src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true"  />
+<img align="left" height="300" src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true"  />
 
 ###
 
