@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="300" src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true"  />
+<img align="left" height="270" src="https://github.com/hackersaqib786/Junk/blob/main/Screenshot%202024-02-17%20at%207.59.13%20AM.png?raw=true"  />
 
 ###
 
@@ -34,6 +34,7 @@
 
 ###
 
+<br> <br>
 <br clear="both">
 
 <div align="center">
@@ -43,6 +44,8 @@
 </div>
 
 ###
+
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-shahid-ali-3031641b3/" target="_blank">
