@@ -50,8 +50,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
+<br>
 
 ###
+<hr/>
+
+<h2 align="center"> Stats </h2>
+<br>
 
 <br clear="both">
 
@@ -62,26 +67,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hackersaqib786&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=hackersaqib786&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
-
-
-
-
-###
-
-
+<br>
 
 
 
 ###
+ <hr/>
+ 
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,mysql," /><br>
+</div>
+
+<br/>
+<br>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackersaqib786&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hackersaqib786/count.svg?"  />
-</div>
-
-###
